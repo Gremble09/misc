@@ -7,3 +7,7 @@ A repository with all kinds of silly little scripts, programs and algorithms tha
 
 Python implementation of fourth order runga-kutta. 
 I don't think I will generalise it any more than this
+
+##Hanoi
+
+C++ and Python implementations of the Tower of Hanoi
