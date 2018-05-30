@@ -10,4 +10,4 @@ I don't think I will generalise it any more than this
 
 ##Hanoi
 
-C++ and Python implementations of the Tower of Hanoi
+Python implementations of the Tower of Hanoi
